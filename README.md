@@ -1,0 +1,1 @@
+This is a project done through the Web Developer Bootcamp. Will probably update one day to be a more detailed resume.

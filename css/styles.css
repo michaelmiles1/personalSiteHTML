@@ -1,12 +1,16 @@
 /* color pallete for site: https://colorhunt.co/palette/fffbeb495579263159251749 */
 body {
     background-color: #495579;
+    color: #FFFBEB;
 }
 
 /* override standard <hr> formatting */
 hr {
-    border-color: #251749;
     border-width: 5px;
     border-style: dotted none none;
     width: 10%;
+}
+
+a {
+    color: #FFFBEB;
 }
